@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer>
+    <personal-info>
+        <name>Jane Doe</name>
+    </personal-info>
+    <contact-info>
+        <address>
+            <city>My Town</city>
+            <street>123 Any Street</street>
+        </address>
+        <phone-number type="Work">123</phone-number>
+        <phone-number type="Home">456</phone-number>
+    </contact-info>
+</customer>
